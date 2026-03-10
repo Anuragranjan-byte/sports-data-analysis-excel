@@ -1,6 +1,4 @@
-# sports-data-analysis-excel
 # Sports Data Analysis using Excel
-
 ## Project Overview
 This project analyzes sportsmen membership data for an international sports event organization. The objective of this project is to clean the dataset, perform analysis, and generate reports using Microsoft Excel.
 
